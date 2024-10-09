@@ -1,0 +1,551 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    /* overflow: hidden; */
+}
+
+.top {
+    background-color: #ec0c1b;
+    height: 50px;
+}
+
+.top-1 {
+    width:
+        600px;
+}
+
+.top-2 li {
+    padding: 8px;
+}
+
+.top-2 a {
+    color: rgb(160, 154, 145);
+}
+
+.top-2 li:hover {
+    background-color: #9b0912;
+}
+
+.top-2 li:hover a {
+    color: white;
+    font-weight: bold;
+}
+
+.top03 a {
+    margin-top: 40px;
+}
+
+.ALL-item:hover .top03 {
+    display: flex;
+    justify-content: space-around;
+    height: 200px;
+    width: 100%;
+    margin-top: 15px;
+    left: 0;
+}
+
+.ALL-item-1:hover .top03 {
+    display: flex;
+    justify-content: center;
+    height: 370px;
+    width: 100%;
+    margin-top: 15px;
+    left: 0;
+}
+
+.ALL-item-2:hover .top05 {
+    display: flex;
+    justify-content: space-around;
+    height: 100px;
+    width: 100%;
+    left: 0;
+}
+
+.top04 {
+    margin-right: 100px;
+    margin-top: 40px;
+}
+
+.medium:hover {
+    background-image: url('https://herlan.com/wp-content/uploads/2024/09/25-USP-300x300.webp');
+    margin-left: 15px;
+
+}
+
+.info {
+    margin-left: 42%;
+}
+
+.mt {
+    border: solid 2px red;
+}
+
+.test {
+    height: 300px;
+    width: 280px;
+    background-image: url('https://herlan.com/wp-content/uploads/2023/07/No-Transfer-Matte-Lipstick-No.20-800x800.webp');
+    background-size: 100% 100%;
+}
+
+.test:hover {
+    background-image: url('https://herlan.com/wp-content/uploads/2024/09/20-USP-300x300.webp');
+    background-size: 100% 100%;
+}
+
+.test-1 {
+    height: 300px;
+    width: 280px;
+    background-image: url('https://herlan.com/wp-content/uploads/2023/07/No-Transfer-Matte-Lipstick-No.19-800x800.webp');
+    background-size: 100% 100%;
+}
+
+.test-1:hover {
+    background-image: url('https://herlan.com/wp-content/uploads/2024/09/19-USP-300x300.webp');
+    background-size: 100% 100%;
+}
+
+.test-2 {
+    height: 300px;
+    width: 280px;
+    background-image: url('https://herlan.com/wp-content/uploads/2023/07/No-Transfer-Matte-Lipstick-No.18-800x800.webp');
+    background-size: 100% 100%;
+}
+
+.test-2:hover {
+    background-image: url('https://herlan.com/wp-content/uploads/2024/09/18-USP-300x300.webp');
+    background-size: 100% 100%;
+}
+
+.test-3 {
+    height: 300px;
+    width: 280px;
+    background-image: url('https://herlan.com/wp-content/uploads/2023/07/No-Transfer-Matte-Lipstick-No.10-800x800.webp');
+    background-size: 100% 100%;
+}
+
+.test-3:hover {
+    background-image: url('https://herlan.com/wp-content/uploads/2024/09/10-USP-300x300.webp');
+    background-size: 100% 100%;
+}
+
+.test-4 {
+    background-image: url('https://herlan.com/wp-content/uploads/2024/09/Lily-Semi-Matt-Lipstick-%E2%80%93-Redrum-20-300x300.webp');
+
+}
+
+.test-5 {
+    background-image: url('https://herlan.com/wp-content/uploads/2024/09/Body-Wash-Whipped-Shea-300x300.webp');
+
+}
+
+.test-6 {
+    background-image: url('https://herlan.com/wp-content/uploads/2024/09/Body-Wash-Pomegranate-300x300.webp');
+
+}
+
+.test-7 {
+
+    background-image: url('https://herlan.com/wp-content/uploads/2024/09/Body-Wash-Green-Apple-300x300.webp');
+
+}
+
+.test-8 {
+    background-image: url('https://herlan.com/wp-content/uploads/2024/09/Tea-Tree-Herlan-800x800.webp');
+
+}
+
+.test-8:hover {
+    background-image: url('https://herlan.com/wp-content/uploads/2024/09/Green-Tea_Theme-300x300.webp');
+
+}
+
+.test-9 {
+    background-image: url('https://herlan.com/wp-content/uploads/2024/01/Herlan-Galactic-Glam-Lip-Gloss-Astral-Pink-08-4-ml-300x300.png');
+
+}
+
+.newarrivalsItem {
+    height: 300px;
+    /* width: 280px; */
+    background-size: 100% 100%;
+}
+
+.test-10 {
+    height: 300px;
+    width: 280px;
+    background-image: url('https://herlan.com/wp-content/uploads/2024/09/Siodil-Hydrating-Gel-800x800.png');
+    background-size: 100% 100%;
+}
+
+.test-10:hover {
+    background-image: url('https://herlan.com/wp-content/uploads/2024/09/hrdrating-gel-1-300x300.png');
+    background-size: 100% 100%;
+}
+
+.test-11 {
+    height: 300px;
+    width: 280px;
+    background-image: url('https://herlan.com/wp-content/uploads/2024/04/Cavotin-DermoU-01-800x800.webp');
+    background-size: 100% 100%;
+}
+
+.test-11:hover {
+    background-image: url('https://herlan.com/wp-content/uploads/2024/04/Vitro-Gloss-Shampoo-2-300x300.jpg');
+    background-size: 100% 100%;
+}
+
+.test-12 {
+    height: 300px;
+    width: 280px;
+    background-image: url('https://herlan.com/wp-content/uploads/2024/04/Sunscreen-800x800.png');
+    background-size: 100% 100%;
+}
+
+.test-12:hover {
+    background-image: url('https://herlan.com/wp-content/uploads/2024/04/Aqua-SPF-50-PA-300x300.webp');
+    background-size: 100% 100%;
+}
+
+.test-13 {
+    height: 300px;
+    width: 280px;
+    background-image: url('https://herlan.com/wp-content/uploads/2024/09/Beli-75gm-Front-800x800.webp');
+    background-size: 100% 100%;
+}
+
+.test-13:hover {
+    background-image: url('https://herlan.com/wp-content/uploads/2024/09/Beli-75gm-Side-300x300.webp');
+    background-size: 100% 100%;
+}
+
+.test-14 {
+    height: 300px;
+    width: 280px;
+    background-image: url('https://herlan.com/wp-content/uploads/2023/12/Vitamin-E-Cream-Tropical-Twist-800x800.png');
+    background-size: 100% 100%;
+}
+
+.test-14:hover {
+    background-image: url('https://herlan.com/wp-content/uploads/2023/12/Vitamin-E-Cream-Tropical-Twist-2-300x300.png');
+    background-size: 100% 100%;
+}
+
+.test-15 {
+    height: 300px;
+    width: 280px;
+    background-image: url('https://herlan.com/wp-content/uploads/2024/03/Dazzling-Beauty-50gm-Isometric-800x800.png');
+    background-size: 100% 100%;
+}
+
+.test-15:hover {
+    background-image: url('https://herlan.com/wp-content/uploads/2023/11/6-300x300.webp');
+    background-size: 100% 100%;
+}
+
+.bird {
+    height: 300px;
+    width: 280px;
+    background-image: url('https://herlan.com/wp-content/uploads/2023/09/Shower-Gel-On-An-Island-800x800.png');
+    background-size: 100% 100%;
+}
+
+.bird:hover {
+    background-image: url('https://herlan.com/wp-content/uploads/2023/09/Shower-Gel-On-An-Island-300x300.jpg');
+    background-size: 100% 100%;
+}
+
+.bird-1 {
+    height: 300px;
+    width: 280px;
+    background-image: url('https://herlan.com/wp-content/uploads/2024/06/Tales-of-Tahiti-1-800x800.jpg');
+    background-size: 100% 100%;
+}
+
+.bird-1:hover {
+    background-image: url('https://herlan.com/wp-content/uploads/2024/06/3-SG_Tales-of-Tahiti-300x300.jpg');
+    background-size: 100% 100%;
+}
+
+.bird-2 {
+    height: 300px;
+    width: 280px;
+    background-image: url('https://herlan.com/wp-content/uploads/2024/03/Moisturizing-Cream-Jar-Isometric-800x800.png');
+    background-size: 100% 100%;
+}
+
+.bird-2:hover {
+    background-image: url('https://herlan.com/wp-content/uploads/2024/03/Moisturizing-Cream-Jar-Front.1268-300x300.png');
+    background-size: 100% 100%;
+}
+
+.bird-3 {
+    height: 300px;
+    width: 280px;
+    background-image: url('https://herlan.com/wp-content/uploads/2023/09/Shower-Gel-On-An-Island-800x800.png');
+    background-size: 100% 100%;
+}
+
+.bird-3:hover {
+    background-image: url('https://herlan.com/wp-content/uploads/2023/09/Shower-Gel-On-An-Island-300x300.jpg');
+    background-size: 100% 100%;
+}
+
+.bird-4 {
+    height: 300px;
+    width: 280px;
+    background-image: url('https://herlan.com/wp-content/uploads/2024/03/Lily-Skin-Lotion-200ml-Front-800x800.png');
+    background-size: 100% 100%;
+}
+
+.bird-4:hover {
+    background-image: url('https://herlan.com/wp-content/uploads/2024/03/Lily-Skin-Lotion-200ml-Back-300x300.png');
+    background-size: 100% 100%;
+}
+
+.pic-1 {
+    height: 300px;
+    width: 280px;
+    background-image: url('https://herlan.com/wp-content/uploads/2023/09/Shower-Gel-Bella-Ciao-800x800.png');
+    background-size: 100% 100%;
+}
+
+.pic-1:hover {
+    background-image: url('https://herlan.com/wp-content/uploads/2023/09/Shower-Gel-Bella-Ciao-300x300.jpg');
+    background-size: 100% 100%;
+}
+
+.pic-2 {
+    height: 300px;
+    width: 280px;
+    background-image: url('https://herlan.com/wp-content/uploads/2023/09/WhatsApp-Image-2023-09-25-at-3.09.49-PM-800x800.jpeg');
+    background-size: 100% 100%;
+}
+
+.pic-2:hover {
+    background-image: url('https://herlan.com/wp-content/uploads/2023/09/Shower-Gel-Trick-Or-Treat-300x300.jpg');
+    background-size: 100% 100%;
+}
+
+.pic-3 {
+    height: 300px;
+    width: 280px;
+    background-image: url('https://herlan.com/wp-content/uploads/2024/04/Handmade-Bathing-Bar-Bella-Ciao-300x300.png');
+    background-size: 100% 100%;
+}
+
+.pic-4 {
+    height: 300px;
+    width: 280px;
+    background-image: url('https://herlan.com/wp-content/uploads/2024/04/Handmade-Bathing-Bar-Berry-on-Top-2-300x300.png');
+    background-size: 100% 100%;
+}
+
+.collect {
+    height: 300px;
+    width: 280px;
+    background-image: url('https://herlan.com/wp-content/uploads/2024/09/Lily-Semi-Matt-Lipstick-%E2%80%93-Razzle-20-300x300.webp');
+    background-size: 100% 100%;
+}
+
+.collect-1 {
+    height: 300px;
+    width: 280px;
+    background-image: url('https://herlan.com/wp-content/uploads/2024/09/Lily-Semi-Matt-Lipstick-%E2%80%93-Fire-Pink-1-300x300.webp');
+    background-size: 100% 100%;
+}
+
+.collect-2 {
+    height: 300px;
+    width: 280px;
+    background-image: url('https://herlan.com/wp-content/uploads/2024/09/Lily-Semi-Matt-Lipstick-%E2%80%93-Plum-1-300x300.webp');
+    background-size: 100% 100%;
+}
+
+.collect-3 {
+    height: 300px;
+    width: 280px;
+    background-image: url('https://herlan.com/wp-content/uploads/2024/09/Lily-Semi-Matt-Lipstick-%E2%80%93-Sandy-1-300x300.webp');
+    background-size: 100% 100%;
+}
+
+.collect-4 {
+    height: 300px;
+    width: 280px;
+    background-image: url('https://herlan.com/wp-content/uploads/2024/01/Herlan-Galactic-Glam-Lip-Gloss-Supernova-Sizzle-03-4-ml-300x300.png');
+    background-size: 100% 100%;
+}
+
+.collect-5 {
+    height: 300px;
+    width: 280px;
+    background-image: url('https://herlan.com/wp-content/uploads/2024/01/Herlan-Galactic-Glam-Lip-Gloss-Astral-Pink-08-4-ml-300x300.png');
+    background-size: 100% 100%;
+}
+
+.collect-6 {
+    height: 300px;
+    width: 280px;
+    background-image: url('https://herlan.com/wp-content/uploads/2024/01/Herlan-Galactic-Glam-Lip-Gloss-Lunar-Lavender-13-4-ml-300x300.png');
+    background-size: 100% 100%;
+}
+
+.collect-7 {
+    height: 300px;
+    width: 280px;
+    background-image: url('https://herlan.com/wp-content/uploads/2024/01/Herlan-Galactic-Glam-Lip-Gloss-Solar-Saffron-15-4-ml-300x300.png');
+    background-size: 100% 100%;
+}
+
+.coll {
+    height: 300px;
+    width: 280px;
+    background-image: url('https://herlan.com/wp-content/uploads/2024/03/brightening-glycolic-300x300.webp');
+    background-size: 100% 100%;
+}
+
+.coll-1 {
+    height: 300px;
+    width: 280px;
+    background-image: url('https://herlan.com/wp-content/uploads/2024/03/anti-acne-cleanser-300x300.webp');
+    background-size: 100% 100%;
+}
+
+.coll-2 {
+    height: 300px;
+    width: 280px;
+    background-image: url('https://herlan.com/wp-content/uploads/2024/03/D-Pigment-Cream-300x300.png');
+    background-size: 100% 100%;
+}
+
+.coll-3 {
+    height: 300px;
+    width: 280px;
+    background-image: url('https://herlan.com/wp-content/uploads/2024/03/D-Pigment-SPF-300x300.png');
+    background-size: 100% 100%;
+}
+
+.product {
+    height: 300px;
+    width: 280px;
+    background-image: url('https://herlan.com/wp-content/uploads/2024/09/Cavotin-Hydro-Silk-Surge-Conditioner-Front-Image-1-800x800.webp');
+    background-size: 100% 100%;
+}
+
+.product:hover {
+    background-image: url('https://herlan.com/wp-content/uploads/2024/09/Cavotin-Hydro-Silk-Surge-Conditioner-Back-Image-2-300x300.webp');
+    background-size: 100% 100%;
+}
+
+.product-1 {
+    height: 300px;
+    width: 280px;
+    background-image: url('https://herlan.com/wp-content/uploads/2024/04/Cavotin-DermoU-01-800x800.webp');
+    background-size: 100% 100%;
+}
+
+.product-1:hover {
+    background-image: url('https://herlan.com/wp-content/uploads/2024/04/Vitro-Gloss-Shampoo-2-300x300.jpg');
+    background-size: 100% 100%;
+}
+
+.product-2 {
+    height: 300px;
+    width: 280px;
+    background-image: url('https://herlan.com/wp-content/uploads/2024/04/Cavodtin-Hair-Serum-Front-800x800.jpg');
+    background-size: 100% 100%;
+}
+
+.product-2:hover {
+    background-image: url('https://herlan.com/wp-content/uploads/2024/04/Cavodtin-Hair-Serum-Back-300x300.jpg');
+    background-size: 100% 100%;
+}
+
+.product-3 {
+    height: 300px;
+    width: 280px;
+    background-image: url('https://herlan.com/wp-content/uploads/2024/04/Equi-Shine-Hair-Oil-800x800.jpg');
+    background-size: 100% 100%;
+}
+
+.product-3:hover {
+    background-image: url('https://herlan.com/wp-content/uploads/2024/04/Equi-Shine-Hair-Oil-2-300x300.jpg');
+    background-size: 100% 100%;
+}
+
+
+
+
+/* responsive */
+@media screen and (min-width:400px) and (max-width:1000px) {
+    .top {
+        width: 100%;
+        height: 100px;
+        flex-direction: column;
+    }
+
+    .top-1 {
+        width: 400px;
+    }
+
+    .top-nav {
+        display: none;
+    }
+
+    .top0 {
+        position: absolute;
+    }
+
+    .second {
+        flex-direction: column;
+        align-items: center;
+        background-color: bisque;
+
+    }
+
+    .medium-0 {
+        flex-direction: column;
+    }
+
+    .fy {
+        display: none;
+    }
+
+    .ty {
+        border: solid 1px #999191;
+        background-color: #cca3a3;
+        color: #333131;
+        align-items: center;
+        width: 96%;
+        height: 30px;
+        text-align: start;
+    }
+
+    .ty:focus+.fy {
+        display: block;
+
+    }
+    .dis{
+        display: block;
+        color: red;
+    }
+
+    .count-1 {
+        margin-left: 35%;
+    }
+
+    .count {
+        flex-direction: column;
+        gap: 30px;
+    }
+
+    .end {
+        margin-left: 0;
+        width: 80%;
+        align-items: center;
+    }
+
+
+}
