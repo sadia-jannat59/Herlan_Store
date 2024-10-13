@@ -479,7 +479,7 @@ body {
 
 
 /* responsive */
-@media screen and (min-width:400px) and (max-width:1000px) {
+@media screen and (max-width:1000px) {
     .top {
         width: 100%;
         height: 100px;
